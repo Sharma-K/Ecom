@@ -1,0 +1,19 @@
+{
+  "name": "ecom",
+  "version": "1.0.0",
+  "description": "Ecom backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sharma-K/Ecom.git"
+  },
+  "author": "Keshav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sharma-K/Ecom/issues"
+  },
+  "homepage": "https://github.com/Sharma-K/Ecom#readme"
+}
